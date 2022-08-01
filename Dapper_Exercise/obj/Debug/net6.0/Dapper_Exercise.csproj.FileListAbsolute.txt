@@ -1,0 +1,15 @@
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\Dapper_Exercise.csproj.AssemblyReference.cache
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\Dapper_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\Dapper_Exercise.AssemblyInfoInputs.cache
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\Dapper_Exercise.AssemblyInfo.cs
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\Dapper_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\bin\Debug\net6.0\Dapper_Exercise.exe
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\bin\Debug\net6.0\Dapper_Exercise.deps.json
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\bin\Debug\net6.0\Dapper_Exercise.runtimeconfig.json
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\bin\Debug\net6.0\Dapper_Exercise.dll
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\bin\Debug\net6.0\Dapper_Exercise.pdb
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\Dapper_Exercise.dll
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\refint\Dapper_Exercise.dll
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\Dapper_Exercise.pdb
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\Dapper_Exercise.genruntimeconfig.cache
+C:\Users\scott\OneDrive\Desktop\Dapper_Exercise\Dapper_Exercise\obj\Debug\net6.0\ref\Dapper_Exercise.dll
