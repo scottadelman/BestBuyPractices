@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3OIHiABfICXZXzszyRadOu+0yhdqiq/3cmDPvbli1qd9wC8chDeNljxkRHImInqlVM6b9bnj8edHB+E4lDDPKQ==",
+  "dgSpecHash": "v9BPtZlLDJrnHfLdFn75++XzQzLpVElfFiBzZnnNQhXfglL7jGaza0rlQkL4xn+PK4uH1PyGGyhGFW/k+CpQmw==",
   "success": true,
   "projectFilePath": "C:\\Users\\scott\\OneDrive\\Desktop\\Dapper_Exercise\\Dapper_Exercise\\Dapper_Exercise.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scott\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\scott\\.nuget\\packages\\documentformat.openxml\\2.17.1\\documentformat.openxml.2.17.1.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\k4os.compression.lz4.streams\\1.2.6\\k4os.compression.lz4.streams.1.2.6.nupkg.sha512",
@@ -24,6 +25,7 @@
     "C:\\Users\\scott\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.1\\system.configuration.configurationmanager.4.4.1.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\scott\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\scott\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",

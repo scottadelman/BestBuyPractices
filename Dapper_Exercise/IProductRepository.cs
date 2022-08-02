@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace Dapper_Exercise
 {
-    public class Department
+    public interface IProductRepository
     {
-        public int DepartmentID { get; set; }
-        public string Name { get; set; }
     }
 }

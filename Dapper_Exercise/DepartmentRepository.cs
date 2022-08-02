@@ -8,7 +8,7 @@ using Dapper;
 
 namespace Dapper_Exercise
 {
-    internal class DepartmentRepository : IDepartmentRepository
+    public class DepartmentRepository : IDepartmentRepository
     {
         private readonly IDbConnection _connection;
         //Constructor
